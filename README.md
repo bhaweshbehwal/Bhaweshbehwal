@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bhawesh Behwal 👋
 
-<!--
-**bhaweshbehwal/Bhaweshbehwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student at K.R. Mangalam University, aspiring Generative AI Engineer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill | Level |
+|---|---|
+| Linux (Ubuntu) | Beginner |
+| Bash scripting | Beginner |
+| Git and GitHub | Beginner |
+| REST APIs (curl, jq) | Beginner |
+| Markdown | Beginner |
+
+## Projects
+
+- [DeveloperPortfolio](https://github.com/bhaweshbehwal/DeveloperPortfolio): Linux docs, shell scripts, API work and career roadmap
+- [Portfolio website](https://bhaweshbehwal.github.io/DeveloperPortfolio)
+
+## Connect
+
+- [GitHub](https://github.com/bhaweshbehwal)
+- [LinkedIn](https://www.linkedin.com/in/bhawesh-behwal-789215433)
